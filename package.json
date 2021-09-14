@@ -1,27 +1,33 @@
 {
-  "name": "javascript-exercise",
+  "name": "javascript-practice",
   "version": "1.0.0",
-  "description": "javascript esential practice project",
-  "main": "index.html",
+  "description": "essential javascript practice",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tanvir-Shuvo/JavaScript-Exercise.git"
+    "url": "git+https://github.com/Tanvir-Shuvo/JavaScript-Essential-Practice.git"
   },
   "keywords": [
     "html",
     "css",
-    "javascript"
+    "js"
   ],
   "author": "Tanvir Shuvo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tanvir-Shuvo/JavaScript-Exercise/issues"
+    "url": "https://github.com/Tanvir-Shuvo/JavaScript-Essential-Practice/issues"
   },
-  "homepage": "https://github.com/Tanvir-Shuvo/JavaScript-Exercise#readme",
+  "homepage": "https://github.com/Tanvir-Shuvo/JavaScript-Essential-Practice#readme",
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "prettier": "^2.4.0"
   }
 }

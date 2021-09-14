@@ -23,8 +23,7 @@ class DailyRoutine {
     startday
   ) {
     // Define properties:
-    this.rise =      
-    rise;
+    this.rise = rise;
     this.shower = shower;
     this.breakfast = breakfast;
     this.emailCheck = emailCheck;

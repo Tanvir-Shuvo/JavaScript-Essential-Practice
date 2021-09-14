@@ -1,0 +1,27 @@
+{
+  "name": "javascript-exercise",
+  "version": "1.0.0",
+  "description": "javascript esential practice project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanvir-Shuvo/JavaScript-Exercise.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Tanvir Shuvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanvir-Shuvo/JavaScript-Exercise/issues"
+  },
+  "homepage": "https://github.com/Tanvir-Shuvo/JavaScript-Exercise#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}

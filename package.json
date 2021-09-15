@@ -1,7 +1,7 @@
 {
   "name": "javascript-practice",
   "version": "1.0.0",
-  "description": "Essential javascript exercise with some basic topic",
+  "description": "javascript practice modules",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

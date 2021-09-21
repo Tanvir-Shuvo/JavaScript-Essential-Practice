@@ -25,3 +25,4 @@ const book = {
 console.log('The book Object:', book);
 console.log('The book object softcopy details:', book.collect.softCopy);
 console.log('The book object softcopy details:', book.collect.softCopy.discount);
+console.log('The book object softcopy details:', book.collect.hardCopy.discount);

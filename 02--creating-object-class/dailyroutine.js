@@ -19,8 +19,7 @@ class DailyRoutine {
         refreshment,
         dinner,
         familyTime,
-        sleep,
-        startday
+        sleep
     ) {
         // Define properties:
         this.rise = rise;
@@ -38,7 +37,6 @@ class DailyRoutine {
         this.dinner = dinner;
         this.familyTime = familyTime;
         this.sleep = sleep;
-        this.startday = startday;
     }
 
     // Add methods like normal functions:

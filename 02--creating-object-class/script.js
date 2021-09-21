@@ -17,8 +17,6 @@ const myDayroutine = new DailyRoutine(
     8,
     9,
     10,
-    'Meeting with client',
-    'Meeting with emplyee',
     '2.30pm - 3.30pm',
     6,
     'Outing',
@@ -28,7 +26,11 @@ const myDayroutine = new DailyRoutine(
 );
 
 console.log('The myDailyroutine object:', myDayroutine);
-console.log('The project schedule:', myDayroutine.projects);
 
-myDayroutine.projectChange('Team Meeting', 'Project Brief');
+// Dot Notation
+console.log('The project schedule:', myDayroutine.projects);
 console.log('The projects New schedule:', myDayroutine.projects);
+
+// Bracket Notaton
+const food = 'lunchTime';
+console.log('The lunch time Dot Notation', myDayroutine[food]);
